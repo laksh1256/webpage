@@ -1,1 +1,1 @@
-# webpage
+# A responsive front end template for a website to be used for Restaurants for displaying the   enticing array of food,  restaurant cuisine, Quick access to location with a feedback form for the visitors.
